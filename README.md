@@ -1,24 +1,19 @@
-# README
+# Search Realtime
+An app that enable the user to search for articles. The search operation is assisted by an **autocompletion** feature.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Demo Link
+- Not Available. I'm still looking for an alternative to heroku.
 
-Things you may want to cover:
-
+# Summary
 * Ruby version
-
-* System dependencies
-
-* Configuration
-
+> 3.0
 * Database creation
-
+> `rails db:create`
 * Database initialization
-
+> `rails db:migrate`
 * How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  - n/a
+* Dependencies
+  - jQuery
+  - bcrypt
+  - faker
